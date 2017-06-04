@@ -1,15 +1,15 @@
 ### Ingredients:
 (Serves 1)
 
-1 tablespoon olive oil
-1 small clove garlic, peeled
-1⁄4 teaspoon crushed red pepper flakes
-1 14-ounce can diced tomatoes
-1⁄2 teaspoon kosher salt or
-1⁄4 teaspoon table salt, or to taste
-1–2 eggs
-2–3 teaspoons grated
-Parmesan
+- 1 tablespoon olive oil
+- 1 small clove garlic, peeled
+- 1⁄4 teaspoon crushed red pepper flakes
+- 1 14-ounce can diced tomatoes
+- 1⁄2 teaspoon kosher salt or
+- 1⁄4 teaspoon table salt, or to taste
+- 1–2 eggs
+- 2–3 teaspoons grated
+- Parmesan
 
 ### Method:
 
