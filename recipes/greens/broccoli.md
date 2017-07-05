@@ -3,12 +3,12 @@
 ### Ingredients:
 (serves 1)
 
-2 Broccoli Crowns
-2 Cloves of Garlic
-1 tsp olive oil
-1 tsp onion powder
-Chilli flakes
-2 tsp reduced sodium soy sauce
+- 2 Broccoli Crowns
+- 2 Cloves of Garlic
+- 1 tsp olive oil
+- 1 tsp onion powder
+- Chilli flakes
+- 2 tsp reduced sodium soy sauce
 
 ### Method:
 
