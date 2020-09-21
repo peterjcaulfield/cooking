@@ -12,7 +12,7 @@
 
 Recommendation: Fleur De Sel
 
-#### When to Use
+#### When to Use
 
 Use sea salt when the texture can be enjoyed. E.g:
 
@@ -59,7 +59,7 @@ salt in food which are rooted in natures tendency to seek equilibrium.
 Wrt. salt it is the balancing of concentration of minerals on either side of a
 semipermeable membrane (holey cell wall).
 
-#### Osmosis
+#### Osmosis
 
 The movement of water across a cell wall from less salty side to saltier side.
 
