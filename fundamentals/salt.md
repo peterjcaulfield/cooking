@@ -42,7 +42,7 @@ Any case where the salt will be disolved/absorbed:
 
 ## How It Works
 
-- Tastes: Five types detected by the tastebuds incl. saltiness, sourness, bitterness, sweetness, unami.
+- Tastes: Five types detected by the tastebuds incl. saltiness, sourness, bitterness, sweetness, umami.
 - Aroma: Detected by the nose. Thousands.
 - Flavour: Intersection of taste/aroma and other sensory elements incl.
 texture/temperature.
