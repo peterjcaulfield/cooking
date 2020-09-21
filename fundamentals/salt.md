@@ -3,7 +3,7 @@
 - Don't use table salt when cooking. It contains additives like iodine/dextrose.
 - Use Kosher Salt or Sea Salt depending on what you are cooking.
 - Denser the salt the saltier it tastes so if measuring use weight over volume.
-- The quicker salt disolves the less likely you are to over season.
+- The quicker salt dissolves the less likely you are to over season.
 - Food shouldn't be salty it should be *salted*.
 -
 ## What Salt to Keep On Hand
@@ -28,7 +28,7 @@ Recommendation: Diamond Crystal
 
 #### When to use
 
-Any case where the salt will be disolved/absorbed:
+Any case where the salt will be dissolved/absorbed:
 
 - Brining/Salting Meat
 - Sauces
@@ -37,7 +37,7 @@ Any case where the salt will be disolved/absorbed:
 
 ## How to Salt
 
-- Allow salt to disolve. Taste. Adjust.
+- Allow salt to dissolve. Taste. Adjust.
 - Water should taste like sea water. 2% salinity. Taste the water.
 
 ## How It Works
