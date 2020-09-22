@@ -94,15 +94,67 @@ Salt moves in.
 
 ### Seafood
 
+Seasfood has delicate proteins compared to meat so we salt later:
+
+- Flaky fish: season 15 mins before
+- Meatier fish like Tuna/Swordfish: season 30 mins before
+- All other seafood: season at the time of cooking
+
 ### Fat
+
+Salt requires water to dissolve. Luckily most of the fats used in cooking come
+with at least a litter water - the small amounts of water in butter, lemon juice
+in mayonaisse, vinegar in a vinaigrette allow salt to dissolve *slowly*.
+
+Season early, wait to dissolve, taste, adjust.
+
+Fatty cuts of meat (pork loin/rib eye) will not absorb salt evenly.
 
 ### Eggs
 
+Salt speeds up the cooking time of eggs, which increases water retention which
+in turn determines texture/moistness.
+
+- Eggs for scramblings, omelettes, custards, frittatas: a pinch of salt before
+  cooking.
+- Poached eggs: Lightly salt water.
+- Fried/Boiled eggs: Season just before serving.
+
 ### Vegetables/Fungi
+
+Most fruit/veg contain an undigestible carbohydrate called *pectin*. Softening
+the pectin through ripening/heat will make the fruit/veg more tender/tasty. Salt
+assists in weakening pectin.
+
+When in doubt, salt veg vefore cooking.
+
+- Toss veg with salt and olive oil for roasting.
+- Salt blanching water generously before adding veg.
+- Add salt to pan with veg for sauteing.
+- Season veg with large watery cells (tomatoes/courgettes/aubergines etc.) in
+  advance of grilling. Aim for 15 mins before.
+- Mushrooms are about 80% water which will be expelled when salted so wait until
+  they've begun to brown in pan to season.
+
 
 ### Legumes/Grains
 
+Legumes/grains have evolved tough exterior shells for protection and so require
+long gentle cooking in water to become tender.
+
+For grains, farro, quinoa: Salt the water less agressively than water used for
+blanching as the salt has plenty of time to dissolve and the cooking water
+will mostly be absorbed.
+
+
 ### Doughs/Breads
+
+- Add to bread dough early.
+- Add early to ramen/udon noodle dough.
+- Add later to batters/doughs for cakes/pancakes/delicate pastries (making sure
+  to whisk thoroughly before cooking).
+- Leave it out of pasta dough altogether (salted water at cooking time will
+  season pasta).
 
 ## Cooking Foods in Salted Water
 
