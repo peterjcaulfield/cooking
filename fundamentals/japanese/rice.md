@@ -13,7 +13,7 @@ Method:
 - Rinse rice in fine-mesh strainer agitating using your fingers until water runs
   clear
 - Add to enamel-glazed cast iron pot and let soak for 20 mins or up to 1 hour
-- Bring water to summer of medium-high heat stirring to prevent
+- Bring water to simmer of medium-high heat stirring to prevent
   clumping/sticking
 - Once simmering, cover pot and turn heat to low
 - Set timer for 14 mins.
