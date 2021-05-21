@@ -18,7 +18,7 @@ For cooking you can do either:
 - 3 garlic cloves, smashed
 - 1 jalapeño, halved
 
-## Greek Garlic
+## Greek Garlic
 
 - 4 tbsp. extra-virgin olive oil, divided
 - Juice of 1 lemon
@@ -27,7 +27,7 @@ For cooking you can do either:
 - kosher salt
 - Freshly ground black pepper
 
-## Balsamic
+## Balsamic
 
 - 1/4 c. balsamic vinegar
 - 3 tbsp. extra-virgin olive oil
@@ -38,7 +38,7 @@ For cooking you can do either:
 - Kosher salt
 - Freshly ground black pepper
 
-## Coriander Lime
+## Coriander Lime
 
 - 3 tbsp. extra-virgin olive oil, divided
 - Juice of 2 limes
@@ -49,7 +49,7 @@ For cooking you can do either:
 - Kosher salt
 - Freshly ground black pepper
 
-## Tandoori
+## Tandoori
 
 Cooking method: Grill
 
