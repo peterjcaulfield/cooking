@@ -1,5 +1,10 @@
 # Starch Resistant Potato Salad
 
+[Benefits of resistant
+starch](https://www.marksdailyapple.com/the-definitive-guide-to-resistant-starch/)
+
+## Ingredients
+
 - Sea salt and pepper
 - 8 medium potatoes
 - 1/4 to 1/3 cup Mayo
